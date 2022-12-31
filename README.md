@@ -1,5 +1,7 @@
 # NL22 (NerdLang 22)
 
+<img title="NerdLang22 Logo" alt="NL22 Logo" src="/assets/Logo 0.5.png">
+
 ## Intro
 
 NerdLang is a programming language aimed to be easy to learn and efficient. Although it is programmed in Python, an interpreted and notoriously slow programming language, the language is going to be compiled to Assembly and ran from there. 
